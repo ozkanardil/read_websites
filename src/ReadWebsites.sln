@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadYoutubeChannel", "ReadYoutubeChannel\ReadYoutubeChannel.csproj", "{163C5DD5-C62F-42F5-9143-2D7A86A6E0B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{0C66A065-ADA6-499D-9AB5-2078474AD6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163C5DD5-C62F-42F5-9143-2D7A86A6E0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163C5DD5-C62F-42F5-9143-2D7A86A6E0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163C5DD5-C62F-42F5-9143-2D7A86A6E0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163C5DD5-C62F-42F5-9143-2D7A86A6E0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C66A065-ADA6-499D-9AB5-2078474AD6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C66A065-ADA6-499D-9AB5-2078474AD6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C66A065-ADA6-499D-9AB5-2078474AD6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C66A065-ADA6-499D-9AB5-2078474AD6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28935E43-0720-46C6-87AC-7F9B09DF2545}
+	EndGlobalSection
+EndGlobal
